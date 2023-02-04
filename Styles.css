@@ -1,0 +1,15 @@
+/* Add a comment here */
+
+body {
+    font-size: 20px;
+    color: blue;
+}
+
+div {
+    background-color: grey;
+}
+
+p {
+	/* This will apply the same border styles to all sides of the element */
+	border: 5px solid red;
+}
